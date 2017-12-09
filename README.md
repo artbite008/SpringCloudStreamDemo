@@ -36,3 +36,6 @@ docker start rabbit
 ```
 [com.github.artbite008.springcloudstreamdemo.messaging.MessageReceiver]- got message from message-in-test, TEST
 ```
+
+message-out exchange绑定到message-in-test
+![https://raw.githubusercontent.com/artbite008/SpringCloudStreamDemo/master/images/Snap6.png](https://raw.githubusercontent.com/artbite008/SpringCloudStreamDemo/master/images/Snap6.png)
