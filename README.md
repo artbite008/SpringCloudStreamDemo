@@ -1,7 +1,11 @@
 # Spring Cloud Stream Demo
 
-## Spring Cloud Stream介绍
+## Spring Cloud Stream中文介绍
 [http://blog.spring-cloud.io/blog/sc-stream.html](http://blog.spring-cloud.io/blog/sc-stream.html)
+
+## Spring Cloud Stream Reference Guide
+[https://docs.spring.io/spring-cloud-stream/docs/Ditmars.RELEASE/reference/htmlsingle/#_spring_cloud_stream_core](https://docs.spring.io/spring-cloud-stream/docs/Ditmars.RELEASE/reference/htmlsingle/#_spring_cloud_stream_core)
+
 
 ## 本实例运行步骤
 ###1，运行rabbitmq docker镜像
