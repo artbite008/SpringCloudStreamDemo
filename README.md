@@ -22,5 +22,5 @@ docker start rabbit
 ###3，运行Application.java,程序启动过程中请忽略mogodb的报错信息。
 
 ###4，程序启动成功后，在rabbitmq的控制台（http://localhost:32769），查看exchange列表，如果有如下3个新的exchange出现，代表rabbitmq连接成功。
-
+![https://raw.githubusercontent.com/artbite008/SpringCloudStreamDemo/master/images/Snap4.png](https://raw.githubusercontent.com/artbite008/SpringCloudStreamDemo/master/images/Snap4.png)
 ###5，如上图rabbitmq控制台，点击Exchange: message-in，
