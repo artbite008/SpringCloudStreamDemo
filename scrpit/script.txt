@@ -1,0 +1,7 @@
+https://hub.docker.com/_/rabbitmq/
+
+docker pull rabbitmq:management
+
+https://docs.spring.io/spring-cloud-stream/docs/Ditmars.RELEASE/reference/htmlsingle/#_spring_cloud_stream_core
+
+docker run --name rabbit -P -d rabbitmq:management
